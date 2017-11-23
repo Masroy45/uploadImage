@@ -8,5 +8,15 @@
     "connector": "loopback-component-storage",
     "provider": "filesystem",
     "root": "./uploads"
+  },
+  "mysql": {
+    "host": "localhost",
+    "port": 0,
+    "url": "",
+    "database": "camera",
+    "password": "admin",
+    "name": "mysql",
+    "user": "root",
+    "connector": "mysql"
   }
 }

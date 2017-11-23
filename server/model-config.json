@@ -38,5 +38,9 @@
   "container": {
     "dataSource": "myFile",
     "public": true
+  },
+  "image": {
+    "dataSource": "mysql",
+    "public": true
   }
 }
